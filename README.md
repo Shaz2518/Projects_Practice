@@ -83,7 +83,7 @@ While building these projects, I gained:
 
 ## 🔗 Links  
 - 📘 [Udemy Course: Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/)  
-- 🖥️ [GitHub Repository](https://github.com/your-username/java-projects-udemy)  
+- 🖥️ [GitHub Repository]((https://github.com/Shaz2518/Projects_Practice))  
 - 💼 [My LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
 - 🏆 [Certificate of Completion](Add link if available)  
 
