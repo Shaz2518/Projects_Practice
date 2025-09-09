@@ -9,6 +9,8 @@ public class EmailApp {
 		String employeeInfo = em1.showInfo();
 		System.out.println("====EMPLOYEE DETAILS====");
 		System.out.println(employeeInfo);
+		
+		
 
 	}
 

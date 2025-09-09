@@ -45,6 +45,8 @@ public class Email {
 		else if(deptCode ==2) {return "Dev";}
 		else if(deptCode ==3) {return "Accounting";}
 		else{return "None";}
+		
+		
 	
 		}
 	
@@ -86,6 +88,7 @@ public class Email {
 					"\nCompany Email: " + emailAddress +
 					"\nEmail Box Capacity: " + emailBoxCapacity + "MB";
 		}
+		
 }
 
 		
