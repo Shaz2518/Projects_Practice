@@ -74,7 +74,7 @@ Navigate to the project folder.
 
 Run the main() method to execute the program.
 
-🎯 Lessons Learned
+##🎯 Lessons Learned
 
 Applied Encapsulation, Inheritance, Constructors in real projects
 
@@ -84,7 +84,7 @@ Gained confidence in structuring maintainable Java code
 
 Strengthened foundations in Java & OOP
 
-🔗 Links
+##🔗 Links
 
 [Udemy Course](https://www.udemy.com/course/practice-java-by-building-projects/)
 
@@ -93,3 +93,5 @@ Strengthened foundations in Java & OOP
 [GitHub Repository](https://github.com/Shaz2518)
 
 ✨ Learning. Building. Growing.
+
+
