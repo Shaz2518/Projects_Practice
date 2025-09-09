@@ -18,12 +18,14 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 ---
 
 ## 📑 Table of Contents  
+- [About](#-about)  
 - [Projects](#-projects)  
 - [Tech Stack](#-tech-stack)  
 - [Features](#-features)  
 - [How to Run](#-how-to-run)  
 - [Lessons Learned](#-lessons-learned)  
 - [Links](#-links)  
+
 
 ---
 
@@ -63,7 +65,7 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 
 ---
 
-## ⚙️ How to Run  
+## ⚙️ How to Run 
 
 1. **Clone this repository**  
    ```bash
