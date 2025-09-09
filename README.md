@@ -64,12 +64,24 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 ---
 
 ## ⚙️ How to Run  
-1. Clone this repository:  
+
+1. **Clone this repository**  
    ```bash
-- git clone https://github.com/Shaz2518/Projects_Practice.git
-- Open in your preferred IDE (IntelliJ / Eclipse / VS Code).
-- Navigate to the project folder.
-- Run the main() method to execute the program.
+   git clone https://github.com/your-username/java-projects-udemy.git
+Open the project in your IDE
+
+Recommended: IntelliJ IDEA / Eclipse / VS Code with Java extension
+
+Navigate to the project folder
+
+Each project has its own package and main() class (e.g., EmailApp, StudentDatabaseApp, BankAccountApp)
+
+Run the application
+
+Right-click the file containing the main() method → select Run
+
+The program output will be displayed in the IDE console
+
 
 ## 🎯 Lessons Learned  
 While building these projects, I gained:  
