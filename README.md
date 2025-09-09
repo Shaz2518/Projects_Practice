@@ -77,7 +77,7 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 4. **Run the application:**
    Right-click the file containing the main() method → select Run
    The program output will be displayed in the IDE console
-
+---
 
 ## 🎯 Lessons Learned  
 While building these projects, I gained:  
