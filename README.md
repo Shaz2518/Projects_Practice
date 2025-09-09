@@ -66,4 +66,30 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 ## ⚙️ How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/java-projects-udemy.git
+   git clone https://github.com/Shaz2518/Projects_Practice.git
+
+   Open in your preferred IDE (IntelliJ / Eclipse / VS Code).
+
+Navigate to the project folder.
+
+Run the main() method to execute the program.
+
+🎯 Lessons Learned
+
+Applied Encapsulation, Inheritance, Constructors in real projects
+
+Improved problem-solving and debugging skills
+
+Gained confidence in structuring maintainable Java code
+
+Strengthened foundations in Java & OOP
+
+🔗 Links
+
+[Udemy Course](https://www.udemy.com/course/practice-java-by-building-projects/)
+
+[LinkedIn Post – Course Completion](Add your LinkedIn post link here)
+
+[GitHub Repository](https://github.com/Shaz2518)
+
+✨ Learning. Building. Growing.
