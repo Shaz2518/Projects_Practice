@@ -16,7 +16,7 @@ public class StudentDatabaseApp {
 		// Create how many students we want to add
 		for (int i = 0; i < numOfStudents; i++) {
 			students[i] = new Student();
-			students[i].Enroll();
+			students[i].enroll();
 			students[i].payFees();
 
 		}

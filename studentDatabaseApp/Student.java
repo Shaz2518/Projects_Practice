@@ -26,7 +26,7 @@ public class Student {
 		this.gradeYear = scr.nextInt();
 
 		setStudentID();
-		scr.close();
+		
 	}
 
 	// Create new Student ID
@@ -36,11 +36,13 @@ public class Student {
 	}
 
 	// Enroll in course
-	public void Enroll() {
+	public void enroll() {
 		do {
 			System.out.print("Enter course name to Enroll (Q to Quit): ");
 			Scanner scr = new Scanner(System.in);
+			
 			String course = scr.nextLine();
+			
 			if (!course.equalsIgnoreCase("Q")) {
 				courses = courses + " " + course;
 				balanceFees = balanceFees + courseFees;
