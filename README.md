@@ -50,9 +50,6 @@ The goal of this course was to practice **Object-Oriented Programming (OOP)** co
 
 ## 🛠 Tech Stack  
 - **Language:** Java ☕  
-- **Testing Tools:** Selenium, Postman, TestNG  
-- **DevOps Tools:** Jenkins, Git, Docker, CI/CD  
-- **Database:** SQL  
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code  
 
 ---
@@ -93,7 +90,7 @@ While building these projects, I gained:
 - 📘 [Udemy Course: Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/)  
 - 🖥️ [GitHub Repository]((https://github.com/Shaz2518/Projects_Practice))  
 - 💼 [My LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
-- 🏆 [Certificate of Completion](Add link if available)  
+- 🏆 [Certificate of Completion]([Add link if available](https://udemy-certificate.s3.amazonaws.com/image/UC-6663e0ec-eaae-401a-bbee-9e172fdaac6e.jpg))  
 
 
 ✨ Learning. Building. Growing.
